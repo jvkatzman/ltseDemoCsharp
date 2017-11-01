@@ -1,0 +1,8 @@
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\bin\Release\LTSEDemo.exe.config
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\bin\Release\LTSEDemo.exe
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\bin\Release\LTSEDemo.pdb
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\obj\Release\LTSEDemo.processExcFiles.resources
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\obj\Release\LTSEDemo.Properties.Resources.resources
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\obj\Release\LTSEDemo.csproj.GenerateResource.Cache
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\obj\Release\LTSEDemo.exe
+C:\Users\judyvjudy\Documents\GitHub\ltseDemoCsharp\LTSEDemo\obj\Release\LTSEDemo.pdb

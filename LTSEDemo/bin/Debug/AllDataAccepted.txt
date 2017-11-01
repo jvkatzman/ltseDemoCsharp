@@ -1,0 +1,516 @@
+Time Stamp	Broker	Sequence ID	Trade Type	Symbol	Quantity	Price	Side
+10/5/2017 10:00:00 AM	Fidelity	1	2	BARK	100	1.195	Buy
+10/5/2017 10:00:01 AM	Charles Schwab	1	2	CARD	200	6.855	Sell
+10/5/2017 10:00:02 AM	AXA Advisors	1	K	BRIC	5000	30.7	Sell
+10/5/2017 10:00:03 AM	National Planning Corporation	1	K	LGHT	400	140	Buy
+10/5/2017 10:00:04 AM	Edward Jones	1	K	HOOF	150	39.1	Buy
+10/5/2017 10:00:05 AM	Raymond James Financial	1	K	YLLW	200	11	Buy
+10/5/2017 10:00:06 AM	Wells Fargo Advisors	1	K	LGHT	100	140.1	Sell
+10/5/2017 10:00:08 AM	LPL Financial	1	K	LGHT	600	140.005	Sell
+10/5/2017 10:00:11 AM	TD Ameritrade	1	K	LOUD	200	10.95	Buy
+10/5/2017 10:00:40 AM	Fidelity	2	2	LGHT	100	140.05	Buy
+10/5/2017 10:00:41 AM	Fidelity	3	K	BARK	100	1.19	Buy
+10/5/2017 10:00:41 AM	Wells Fargo Advisors	2	K	LGHT	100	140.01	Sell
+10/5/2017 10:00:42 AM	Charles Schwab	3	K	HOOF	100	39.11	Buy
+10/5/2017 10:00:43 AM	Edward Jones	2	2	BARK	400	88.3	Buy
+10/5/2017 10:00:43 AM	TD Ameritrade	3	2	GLOO	500	40.01	Sell
+10/5/2017 10:00:44 AM	Ameriprise Financial	2	K	LGHT	800	98.765	Sell
+10/5/2017 10:00:44 AM	Ameriprise Financial	3	2	LOUD	400	10.96	Sell
+10/5/2017 10:00:45 AM	TD Ameritrade	2	K	HOOF	200	76.48	Sell
+10/5/2017 10:00:45 AM	Raymond James Financial	3	2	CARD	8000	6.555	Buy
+10/5/2017 10:00:46 AM	Raymond James Financial	2	2	YLLW	100000	11.1	Sell
+10/5/2017 10:00:46 AM	AXA Advisors	3	2	BRIC	400	30.71	Sell
+10/5/2017 10:00:47 AM	AXA Advisors	2	2	CARD	700	6.9	Sell
+10/5/2017 10:00:48 AM	LPL Financial	2	K	BRIC	300	30.705	Sell
+10/5/2017 10:00:49 AM	National Planning Corporation	2	K	BRIC	200	30.71	Sell
+10/5/2017 10:00:49 AM	Edward Jones	3	2	LOUD	400	10.96	Sell
+10/5/2017 10:00:50 AM	National Planning Corporation	3	2	YLLW	550	11.205	Sell
+10/5/2017 10:00:51 AM	LPL Financial	3	2	KRIL	30	6.03	Buy
+10/5/2017 10:01:32 AM	Wells Fargo Advisors	3	2	HOOF	600	39.2	Sell
+10/5/2017 10:01:41 AM	Edward Jones	4	2	YLLW	200	11.3	Sell
+10/5/2017 10:01:49 AM	Wells Fargo Advisors	4	K	LGHT	100	98.78	Buy
+10/5/2017 10:01:51 AM	Charles Schwab	4	2	LOUD	200	10.95	Sell
+10/5/2017 10:01:52 AM	Ameriprise Financial	4	2	BRIC	460	30.705	Sell
+10/5/2017 10:01:52 AM	LPL Financial	4	K	YLLW	1560	10.8	Buy
+10/5/2017 10:01:53 AM	AXA Advisors	4	2	BRIC	1400	30.7	Sell
+10/5/2017 10:01:54 AM	Raymond James Financial	4	2	BRIC	900	30.69	Buy
+10/5/2017 10:01:58 AM	TD Ameritrade	4	2	LGHT	500	98.77	Sell
+10/5/2017 10:02:00 AM	Fidelity	5	2	HOOF	100	39.12	Sell
+10/5/2017 10:02:00 AM	Wells Fargo Advisors	6	K	LGHT	400	140	Buy
+10/5/2017 10:02:01 AM	Ameriprise Financial	5	K	KRIL	500	6.075	Buy
+10/5/2017 10:02:02 AM	TD Ameritrade	5	2	BARK	100	1.19	Sell
+10/5/2017 10:02:03 AM	Raymond James Financial	5	2	VELL	100	12	Sell
+10/5/2017 10:02:04 AM	AXA Advisors	5	2	CARD	100	6.65	Buy
+10/5/2017 10:02:05 AM	LPL Financial	5	2	CARD	200	6.68	Buy
+10/5/2017 10:02:06 AM	Charles Schwab	5	2	GLOO	100	40.02	Buy
+10/5/2017 10:02:07 AM	Edward Jones	5	2	KRIL	300	6.08	Buy
+10/5/2017 10:02:08 AM	Wells Fargo Advisors	5	2	HOOF	500	39.13	Sell
+10/5/2017 10:02:09 AM	Raymond James Financial	6	K	LOUD	200	10.95	Buy
+10/5/2017 10:02:10 AM	Fidelity	6	2	YLLW	600	11.11	Sell
+10/5/2017 10:02:11 AM	Edward Jones	6	2	CARD	200	6.855	Sell
+10/5/2017 10:02:12 AM	National Planning Corporation	5	2	YLLW	400	11.105	Sell
+10/5/2017 10:02:14 AM	Charles Schwab	6	2	BARK	100	1.195	Buy
+10/5/2017 10:02:16 AM	Ameriprise Financial	6	K	HOOF	150	39.1	Buy
+10/5/2017 10:02:20 AM	AXA Advisors	6	K	YLLW	200	11	Buy
+10/5/2017 10:02:24 AM	LPL Financial	6	K	BRIC	5000	30.7	Sell
+10/5/2017 10:02:25 AM	National Planning Corporation	6	K	LGHT	600	140.005	Sell
+10/5/2017 10:03:19 AM	AXA Advisors	7	K	HOOF	200	76.48	Sell
+10/5/2017 10:03:20 AM	LPL Financial	7	2	YLLW	100000	11.1	Sell
+10/5/2017 10:03:30 AM	Fidelity	7	K	LGHT	100	140.1	Sell
+10/5/2017 10:03:31 AM	Charles Schwab	7	2	LGHT	100	140.05	Buy
+10/5/2017 10:03:32 AM	Edward Jones	7	K	BARK	100	1.19	Buy
+10/5/2017 10:03:33 AM	TD Ameritrade	7	2	BARK	400	88.3	Buy
+10/5/2017 10:03:34 AM	Raymond James Financial	7	K	LGHT	800	98.765	Sell
+10/5/2017 10:03:35 AM	Wells Fargo Advisors	8	K	BRIC	200	30.71	Sell
+10/5/2017 10:03:39 AM	National Planning Corporation	7	2	CARD	700	6.9	Sell
+10/5/2017 10:03:41 AM	Wells Fargo Advisors	7	K	BRIC	300	30.705	Sell
+10/5/2017 10:04:00 AM	AXA Advisors	8	2	KRIL	30	6.03	Buy
+10/5/2017 10:04:09 AM	LPL Financial	8	2	YLLW	550	11.205	Sell
+10/5/2017 10:04:10 AM	Fidelity	8	K	LGHT	100	140.01	Sell
+10/5/2017 10:04:10 AM	Edward Jones	8	2	LOUD	400	10.96	Sell
+10/5/2017 10:04:11 AM	Charles Schwab	8	K	HOOF	100	39.11	Buy
+10/5/2017 10:04:12 AM	Ameriprise Financial	8	2	GLOO	500	40.01	Sell
+10/5/2017 10:04:15 AM	TD Ameritrade	8	2	CARD	8000	6.555	Buy
+10/5/2017 10:04:18 AM	Raymond James Financial	8	2	BRIC	400	30.71	Sell
+10/5/2017 10:04:26 AM	National Planning Corporation	8	2	HOOF	600	39.2	Sell
+10/5/2017 10:04:45 AM	Wells Fargo Advisors	10	2	LOUD	200	10.95	Sell
+10/5/2017 10:05:00 AM	Wells Fargo Advisors	11	2	YLLW	200	11.3	Sell
+10/5/2017 10:05:10 AM	Fidelity	9	2	BRIC	460	30.705	Sell
+10/5/2017 10:05:11 AM	Charles Schwab	9	2	LGHT	500	98.77	Sell
+10/5/2017 10:05:11 AM	Edward Jones	9	2	BRIC	900	30.69	Buy
+10/5/2017 10:05:11 AM	TD Ameritrade	9	K	YLLW	1560	10.8	Buy
+10/5/2017 10:05:11 AM	Raymond James Financial	9	K	LOUD	200	140.005	Buy
+10/5/2017 10:05:11 AM	AXA Advisors	9	K	LGHT	100	98.78	Buy
+10/5/2017 10:05:11 AM	LPL Financial	9	2	HOOF	100	39.12	Sell
+10/5/2017 10:05:11 AM	National Planning Corporation	9	2	GLOO	100	40.02	Buy
+10/5/2017 10:05:11 AM	Wells Fargo Advisors	12	2	KRIL	300	6.08	Buy
+10/5/2017 10:05:24 AM	Charles Schwab	10	K	KRIL	500	6.075	Buy
+10/5/2017 10:05:24 AM	Edward Jones	10	2	BARK	100	1.19	Sell
+10/5/2017 10:05:24 AM	Ameriprise Financial	10	2	VELL	100	12	Sell
+10/5/2017 10:05:24 AM	TD Ameritrade	10	2	CARD	100	6.65	Buy
+10/5/2017 10:05:24 AM	Raymond James Financial	10	2	CARD	200	6.68	Buy
+10/5/2017 10:05:24 AM	AXA Advisors	10	2	YLLW	400	11.105	Sell
+10/5/2017 10:05:24 AM	LPL Financial	10	2	HOOF	500	39.13	Sell
+10/5/2017 10:05:24 AM	National Planning Corporation	10	2	YLLW	600	11.11	Sell
+10/5/2017 10:05:24 AM	Wells Fargo Advisors	13	K	BRIC	700	30.67	Buy
+10/5/2017 10:06:03 AM	Fidelity	10	2	BARK	100	1.195	Buy
+10/5/2017 10:06:04 AM	Fidelity	11	2	CARD	200	6.855	Sell
+10/5/2017 10:06:06 AM	Charles Schwab	11	K	HOOF	150	39.1	Buy
+10/5/2017 10:06:06 AM	Ameriprise Financial	11	K	LOUD	200	10.95	Buy
+10/5/2017 10:06:06 AM	TD Ameritrade	11	K	YLLW	200	11	Buy
+10/5/2017 10:06:06 AM	Raymond James Financial	11	K	BRIC	5000	30.7	Sell
+10/5/2017 10:06:06 AM	AXA Advisors	11	K	LGHT	600	140.005	Sell
+10/5/2017 10:06:06 AM	LPL Financial	11	K	LGHT	400	140	Buy
+10/5/2017 10:06:06 AM	National Planning Corporation	11	K	LGHT	100	140.1	Sell
+10/5/2017 10:06:06 AM	Wells Fargo Advisors	14	2	LGHT	100	140.05	Buy
+10/5/2017 10:06:58 AM	Charles Schwab	12	K	BARK	100	1.19	Buy
+10/5/2017 10:06:58 AM	Ameriprise Financial	12	2	BARK	400	88.3	Buy
+10/5/2017 10:06:58 AM	TD Ameritrade	12	K	LGHT	800	98.765	Sell
+10/5/2017 10:06:58 AM	Raymond James Financial	12	K	HOOF	200	76.48	Sell
+10/5/2017 10:06:58 AM	AXA Advisors	12	2	YLLW	100000	11.1	Sell
+10/5/2017 10:06:58 AM	LPL Financial	12	2	CARD	700	6.9	Sell
+10/5/2017 10:06:58 AM	National Planning Corporation	12	K	BRIC	300	30.705	Sell
+10/5/2017 10:06:58 AM	Wells Fargo Advisors	15	K	BRIC	200	30.71	Sell
+10/5/2017 10:06:59 AM	Fidelity	12	K	LGHT	100	140.01	Sell
+10/5/2017 10:07:10 AM	Fidelity	13	K	HOOF	100	39.11	Buy
+10/5/2017 10:07:11 AM	Charles Schwab	13	2	LOUD	400	10.96	Sell
+10/5/2017 10:07:11 AM	Edward Jones	13	2	GLOO	500	40.01	Sell
+10/5/2017 10:07:11 AM	Ameriprise Financial	13	2	CARD	8000	6.555	Buy
+10/5/2017 10:07:11 AM	TD Ameritrade	13	2	BRIC	400	30.71	Sell
+10/5/2017 10:07:11 AM	Raymond James Financial	13	2	KRIL	30	6.03	Buy
+10/5/2017 10:07:11 AM	AXA Advisors	13	2	YLLW	550	11.205	Sell
+10/5/2017 10:07:11 AM	LPL Financial	13	2	HOOF	600	39.2	Sell
+10/5/2017 10:07:11 AM	Wells Fargo Advisors	16	2	LOUD	200	10.95	Sell
+10/5/2017 10:07:51 AM	Wells Fargo Advisors	17	2	YLLW	200	11.3	Sell
+10/5/2017 10:08:11 AM	Wells Fargo Advisors	18	2	BRIC	460	30.705	Sell
+10/5/2017 10:08:22 AM	Wells Fargo Advisors	19	2	LGHT	500	98.77	Sell
+10/5/2017 10:09:00 AM	Fidelity	14	2	BRIC	900	30.69	Buy
+10/5/2017 10:09:04 AM	Charles Schwab	14	2	BRIC	1400	30.7	Sell
+10/5/2017 10:09:04 AM	Edward Jones	14	K	YLLW	1560	10.8	Buy
+10/5/2017 10:09:04 AM	Ameriprise Financial	14	K	GLOO	200	140.005	Buy
+10/5/2017 10:09:04 AM	TD Ameritrade	14	K	LGHT	100	98.78	Buy
+10/5/2017 10:09:04 AM	Raymond James Financial	14	2	HOOF	100	39.12	Sell
+10/5/2017 10:09:04 AM	AXA Advisors	14	2	GLOO	100	40.02	Buy
+10/5/2017 10:09:04 AM	LPL Financial	14	2	KRIL	300	6.08	Buy
+10/5/2017 10:09:04 AM	National Planning Corporation	14	K	KRIL	500	6.075	Buy
+10/5/2017 10:09:04 AM	Wells Fargo Advisors	20	2	BARK	100	1.19	Sell
+10/5/2017 10:09:24 AM	Wells Fargo Advisors	21	2	VELL	100	12	Sell
+10/5/2017 10:09:54 AM	Wells Fargo Advisors	22	2	CARD	100	6.65	Buy
+10/5/2017 10:10:45 AM	Charles Schwab	15	2	CARD	200	6.68	Buy
+10/5/2017 10:10:45 AM	Edward Jones	15	2	YLLW	400	11.105	Sell
+10/5/2017 10:10:45 AM	TD Ameritrade	15	2	YLLW	600	11.11	Sell
+10/5/2017 10:10:45 AM	Raymond James Financial	15	2	BARK	100	1.195	Buy
+10/5/2017 10:10:45 AM	AXA Advisors	15	2	CARD	200	6.855	Sell
+10/5/2017 10:10:45 AM	LPL Financial	15	K	HOOF	150	39.1	Buy
+10/5/2017 10:10:45 AM	Wells Fargo Advisors	23	K	LOUD	200	10.95	Buy
+10/5/2017 10:10:55 AM	Wells Fargo Advisors	24	K	YLLW	200	11	Buy
+10/5/2017 10:10:59 AM	Fidelity	15	K	BRIC	5000	30.7	Sell
+10/5/2017 10:11:02 AM	Charles Schwab	16	K	LGHT	600	140.005	Sell
+10/5/2017 10:11:02 AM	Edward Jones	16	K	LGHT	400	140	Buy
+10/5/2017 10:11:02 AM	Ameriprise Financial	16	K	LGHT	100	140.1	Sell
+10/5/2017 10:11:02 AM	TD Ameritrade	16	2	LGHT	100	140.05	Buy
+10/5/2017 10:11:02 AM	Raymond James Financial	16	K	BARK	100	1.19	Buy
+10/5/2017 10:11:02 AM	LPL Financial	16	2	BARK	400	88.3	Buy
+10/5/2017 10:11:02 AM	National Planning Corporation	16	K	LGHT	800	98.765	Sell
+10/5/2017 10:11:02 AM	Wells Fargo Advisors	25	K	HOOF	200	76.48	Sell
+10/5/2017 10:11:03 AM	Fidelity	16	2	YLLW	100000	11.1	Sell
+10/5/2017 10:11:10 AM	Fidelity	17	2	CARD	700	6.9	Sell
+10/5/2017 10:11:20 AM	Fidelity	18	K	BRIC	300	30.705	Sell
+10/5/2017 10:11:51 AM	Charles Schwab	17	K	BRIC	200	30.71	Sell
+10/5/2017 10:11:51 AM	Edward Jones	17	K	LGHT	100	140.01	Sell
+10/5/2017 10:11:51 AM	Ameriprise Financial	17	K	HOOF	100	39.11	Buy
+10/5/2017 10:11:51 AM	TD Ameritrade	17	2	LOUD	400	10.96	Sell
+10/5/2017 10:11:51 AM	Raymond James Financial	17	2	GLOO	500	40.01	Sell
+10/5/2017 10:11:51 AM	AXA Advisors	17	2	CARD	8000	6.555	Buy
+10/5/2017 10:11:51 AM	LPL Financial	17	2	BRIC	400	30.71	Sell
+10/5/2017 10:11:51 AM	National Planning Corporation	17	2	KRIL	30	6.03	Buy
+10/5/2017 10:11:51 AM	Wells Fargo Advisors	26	2	YLLW	550	11.205	Sell
+10/5/2017 10:12:21 AM	Charles Schwab	18	2	HOOF	600	39.2	Sell
+10/5/2017 10:12:21 AM	Ameriprise Financial	18	2	LOUD	200	10.95	Sell
+10/5/2017 10:12:21 AM	TD Ameritrade	18	2	YLLW	200	11.3	Sell
+10/5/2017 10:12:21 AM	Raymond James Financial	18	2	BRIC	460	30.705	Sell
+10/5/2017 10:12:21 AM	AXA Advisors	18	2	LGHT	500	98.77	Sell
+10/5/2017 10:12:21 AM	LPL Financial	18	2	BRIC	900	30.69	Buy
+10/5/2017 10:12:21 AM	National Planning Corporation	18	2	BRIC	1400	30.7	Sell
+10/5/2017 10:12:21 AM	Wells Fargo Advisors	27	K	YLLW	1560	10.8	Buy
+10/5/2017 10:13:56 AM	Wells Fargo Advisors	29	K	LGHT	100	98.78	Buy
+10/5/2017 10:14:00 AM	Fidelity	19	2	HOOF	100	39.12	Sell
+10/5/2017 10:14:01 AM	Charles Schwab	19	2	GLOO	100	40.02	Buy
+10/5/2017 10:14:01 AM	Edward Jones	19	2	KRIL	300	6.08	Buy
+10/5/2017 10:14:01 AM	Ameriprise Financial	19	K	KRIL	500	6.075	Buy
+10/5/2017 10:14:01 AM	TD Ameritrade	19	2	BARK	100	1.19	Sell
+10/5/2017 10:14:01 AM	Raymond James Financial	19	2	VELL	100	12	Sell
+10/5/2017 10:14:01 AM	AXA Advisors	19	2	CARD	100	6.65	Buy
+10/5/2017 10:14:01 AM	LPL Financial	19	2	CARD	200	6.68	Buy
+10/5/2017 10:14:01 AM	National Planning Corporation	19	2	YLLW	400	11.105	Sell
+10/5/2017 10:14:01 AM	Wells Fargo Advisors	30	2	HOOF	500	39.13	Sell
+10/5/2017 10:15:01 AM	Fidelity	20	2	YLLW	600	11.11	Sell
+10/5/2017 10:15:02 AM	Charles Schwab	20	2	BARK	100	1.195	Buy
+10/5/2017 10:15:02 AM	Edward Jones	20	2	CARD	200	6.855	Sell
+10/5/2017 10:15:02 AM	Ameriprise Financial	20	K	HOOF	150	39.1	Buy
+10/5/2017 10:15:02 AM	Raymond James Financial	20	K	LOUD	200	10.95	Buy
+10/5/2017 10:15:02 AM	AXA Advisors	20	K	YLLW	200	11	Buy
+10/5/2017 10:15:02 AM	LPL Financial	20	K	BRIC	5000	30.7	Sell
+10/5/2017 10:15:02 AM	National Planning Corporation	20	K	LGHT	600	140.005	Sell
+10/5/2017 10:15:02 AM	Wells Fargo Advisors	31	K	LGHT	400	140	Buy
+10/5/2017 10:16:02 AM	Wells Fargo Advisors	32	K	LGHT	100	140.1	Sell
+10/5/2017 10:16:11 AM	Wells Fargo Advisors	33	2	LGHT	100	140.05	Buy
+10/5/2017 10:17:00 AM	Fidelity	21	K	BARK	100	1.19	Buy
+10/5/2017 10:17:03 AM	Edward Jones	21	2	BARK	400	88.3	Buy
+10/5/2017 10:17:03 AM	Ameriprise Financial	21	K	LGHT	800	98.765	Sell
+10/5/2017 10:17:03 AM	TD Ameritrade	21	K	HOOF	200	76.48	Sell
+10/5/2017 10:17:03 AM	Raymond James Financial	21	2	YLLW	100000	11.1	Sell
+10/5/2017 10:17:03 AM	AXA Advisors	21	2	CARD	700	6.9	Sell
+10/5/2017 10:17:03 AM	LPL Financial	21	K	BRIC	300	30.705	Sell
+10/5/2017 10:17:03 AM	National Planning Corporation	21	K	BRIC	200	30.71	Sell
+10/5/2017 10:17:03 AM	Wells Fargo Advisors	34	K	LGHT	100	140.01	Sell
+10/5/2017 10:17:22 AM	Wells Fargo Advisors	35	K	HOOF	100	39.11	Buy
+10/5/2017 10:17:34 AM	Wells Fargo Advisors	36	2	LOUD	400	10.96	Sell
+10/5/2017 10:18:00 AM	Fidelity	22	2	GLOO	500	40.01	Sell
+10/5/2017 10:18:05 AM	Charles Schwab	22	2	CARD	8000	6.555	Buy
+10/5/2017 10:18:05 AM	Edward Jones	22	2	BRIC	400	30.71	Sell
+10/5/2017 10:18:05 AM	Ameriprise Financial	22	2	KRIL	30	6.03	Buy
+10/5/2017 10:18:05 AM	TD Ameritrade	22	2	YLLW	550	11.205	Sell
+10/5/2017 10:18:05 AM	Raymond James Financial	22	2	HOOF	600	39.2	Sell
+10/5/2017 10:18:05 AM	LPL Financial	22	2	LOUD	200	10.95	Sell
+10/5/2017 10:18:05 AM	National Planning Corporation	22	2	YLLW	200	11.3	Sell
+10/5/2017 10:18:05 AM	Wells Fargo Advisors	37	2	BRIC	460	30.705	Sell
+10/5/2017 10:19:30 AM	Fidelity	23	2	LGHT	500	98.77	Sell
+10/5/2017 10:19:35 AM	Charles Schwab	23	2	BRIC	900	30.69	Buy
+10/5/2017 10:19:35 AM	Edward Jones	23	2	BRIC	1400	30.7	Sell
+10/5/2017 10:19:35 AM	Ameriprise Financial	23	K	YLLW	1560	10.8	Buy
+10/5/2017 10:19:35 AM	TD Ameritrade	23	K	GLOO	200	140.005	Buy
+10/5/2017 10:19:35 AM	Raymond James Financial	23	K	LGHT	100	98.78	Buy
+10/5/2017 10:19:35 AM	AXA Advisors	23	2	HOOF	100	39.12	Sell
+10/5/2017 10:19:35 AM	LPL Financial	23	2	GLOO	100	40.02	Buy
+10/5/2017 10:19:35 AM	National Planning Corporation	23	2	KRIL	300	6.08	Buy
+10/5/2017 10:19:35 AM	Wells Fargo Advisors	38	K	KRIL	500	6.075	Buy
+10/5/2017 10:19:40 AM	Fidelity	23	2	BARK	100	1.19	Sell
+10/5/2017 10:19:45 AM	Charles Schwab	24	2	VELL	100	12	Sell
+10/5/2017 10:19:45 AM	Edward Jones	24	2	CARD	100	6.65	Buy
+10/5/2017 10:19:45 AM	Ameriprise Financial	24	2	CARD	200	6.68	Buy
+10/5/2017 10:19:45 AM	TD Ameritrade	24	2	YLLW	400	11.105	Sell
+10/5/2017 10:19:45 AM	Raymond James Financial	24	2	HOOF	500	39.13	Sell
+10/5/2017 10:19:45 AM	AXA Advisors	24	2	BARK	100	1.195	Buy
+10/5/2017 10:19:45 AM	LPL Financial	24	2	CARD	200	6.855	Sell
+10/5/2017 10:19:45 AM	National Planning Corporation	24	K	HOOF	150	39.1	Buy
+10/5/2017 10:20:00 AM	Fidelity	24	K	LOUD	200	10.95	Buy
+10/5/2017 10:20:01 AM	Charles Schwab	25	K	YLLW	200	11	Buy
+10/5/2017 10:20:01 AM	Edward Jones	25	K	BRIC	5000	30.7	Sell
+10/5/2017 10:20:01 AM	Ameriprise Financial	25	K	LGHT	600	140.005	Sell
+10/5/2017 10:20:01 AM	TD Ameritrade	25	K	LGHT	400	140	Buy
+10/5/2017 10:20:01 AM	Raymond James Financial	25	K	LGHT	100	140.1	Sell
+10/5/2017 10:20:01 AM	AXA Advisors	25	2	LGHT	100	140.05	Buy
+10/5/2017 10:20:01 AM	LPL Financial	25	K	BARK	100	1.19	Buy
+10/5/2017 10:20:01 AM	Wells Fargo Advisors	40	2	BARK	400	88.3	Buy
+10/5/2017 10:20:41 AM	Wells Fargo Advisors	41	K	LGHT	800	98.765	Sell
+10/5/2017 10:21:00 AM	Fidelity	25	K	HOOF	200	76.48	Sell
+10/5/2017 10:21:01 AM	Charles Schwab	26	2	YLLW	100000	11.1	Sell
+10/5/2017 10:21:01 AM	Edward Jones	26	2	CARD	700	6.9	Sell
+10/5/2017 10:21:01 AM	Ameriprise Financial	26	K	BRIC	300	30.705	Sell
+10/5/2017 10:21:01 AM	TD Ameritrade	26	K	BRIC	200	30.71	Sell
+10/5/2017 10:21:01 AM	Raymond James Financial	26	K	LGHT	100	140.01	Sell
+10/5/2017 10:21:01 AM	AXA Advisors	26	K	HOOF	100	39.11	Buy
+10/5/2017 10:21:01 AM	LPL Financial	26	2	LOUD	400	10.96	Sell
+10/5/2017 10:21:01 AM	National Planning Corporation	26	2	GLOO	500	40.01	Sell
+10/5/2017 10:21:01 AM	Wells Fargo Advisors	42	2	CARD	8000	6.555	Buy
+10/5/2017 10:22:13 AM	Fidelity	26	2	BRIC	400	30.71	Sell
+10/5/2017 10:22:14 AM	Charles Schwab	27	2	KRIL	30	6.03	Buy
+10/5/2017 10:22:14 AM	Edward Jones	27	2	YLLW	550	11.205	Sell
+10/5/2017 10:22:14 AM	Ameriprise Financial	27	2	HOOF	600	39.2	Sell
+10/5/2017 10:22:14 AM	Raymond James Financial	27	2	LOUD	200	10.95	Sell
+10/5/2017 10:22:14 AM	AXA Advisors	27	2	YLLW	200	11.3	Sell
+10/5/2017 10:22:14 AM	LPL Financial	27	2	BRIC	460	30.705	Sell
+10/5/2017 10:22:14 AM	National Planning Corporation	27	2	LGHT	500	98.77	Sell
+10/5/2017 10:22:14 AM	Wells Fargo Advisors	43	2	BRIC	900	30.69	Buy
+10/5/2017 10:23:00 AM	Fidelity	27	2	BRIC	1400	30.7	Sell
+10/5/2017 10:23:01 AM	Charles Schwab	28	K	YLLW	1560	10.8	Buy
+10/5/2017 10:23:01 AM	Edward Jones	28	K	BARK	200	140.005	Buy
+10/5/2017 10:23:01 AM	Ameriprise Financial	28	K	LGHT	100	98.78	Buy
+10/5/2017 10:23:01 AM	TD Ameritrade	28	2	HOOF	100	39.12	Sell
+10/5/2017 10:23:01 AM	Raymond James Financial	28	2	GLOO	100	40.02	Buy
+10/5/2017 10:23:01 AM	AXA Advisors	28	2	KRIL	300	6.08	Buy
+10/5/2017 10:23:01 AM	LPL Financial	28	K	KRIL	500	6.075	Buy
+10/5/2017 10:23:01 AM	National Planning Corporation	28	2	BARK	100	1.19	Sell
+10/5/2017 10:23:01 AM	Wells Fargo Advisors	44	2	VELL	100	12	Sell
+10/5/2017 10:23:27 AM	Wells Fargo Advisors	45	2	CARD	100	6.65	Buy
+10/5/2017 10:23:50 AM	Wells Fargo Advisors	46	2	CARD	200	6.68	Buy
+10/5/2017 10:24:31 AM	Wells Fargo Advisors	47	2	YLLW	400	11.105	Sell
+10/5/2017 10:24:40 AM	Wells Fargo Advisors	48	2	HOOF	500	39.13	Sell
+10/5/2017 10:25:31 AM	Wells Fargo Advisors	49	2	YLLW	600	11.11	Sell
+10/5/2017 10:25:45 AM	Transamerica Financial	1	2	BARK	100	1.195	Buy
+10/5/2017 10:26:32 AM	Wells Fargo Advisors	50	2	CARD	200	6.855	Sell
+10/5/2017 10:26:34 AM	Wells Fargo Advisors	51	K	HOOF	150	39.1	Buy
+10/5/2017 10:27:01 AM	Wells Fargo Advisors	53	K	LOUD	200	10.95	Buy
+10/5/2017 10:28:10 AM	Wells Fargo Advisors	54	K	YLLW	200	11	Buy
+10/5/2017 10:28:26 AM	Wells Fargo Advisors	55	K	BRIC	5000	30.7	Sell
+10/5/2017 10:29:00 AM	Wells Fargo Advisors	56	K	LGHT	600	140.005	Sell
+10/5/2017 10:29:10 AM	Wells Fargo Advisors	57	K	LGHT	400	140	Buy
+10/5/2017 10:29:43 AM	Wells Fargo Advisors	58	K	LGHT	100	140.1	Sell
+10/5/2017 10:30:11 AM	Wells Fargo Advisors	59	2	LGHT	100	140.05	Buy
+10/5/2017 10:30:15 AM	Wells Fargo Advisors	60	K	BARK	100	1.19	Buy
+10/5/2017 10:31:15 AM	Wells Fargo Advisors	62	2	BARK	400	88.3	Buy
+10/5/2017 10:31:35 AM	Wells Fargo Advisors	63	K	LGHT	800	98.765	Sell
+10/5/2017 10:32:10 AM	Fidelity	28	K	HOOF	200	76.48	Sell
+10/5/2017 10:32:11 AM	Charles Schwab	29	2	YLLW	100000	11.1	Sell
+10/5/2017 10:32:11 AM	Edward Jones	29	2	CARD	700	6.9	Sell
+10/5/2017 10:32:11 AM	Ameriprise Financial	29	K	BRIC	300	30.705	Sell
+10/5/2017 10:32:11 AM	TD Ameritrade	29	K	BRIC	200	30.71	Sell
+10/5/2017 10:32:11 AM	Raymond James Financial	29	K	LGHT	100	140.01	Sell
+10/5/2017 10:32:11 AM	AXA Advisors	29	K	HOOF	100	39.11	Buy
+10/5/2017 10:32:11 AM	LPL Financial	29	2	LOUD	400	10.96	Sell
+10/5/2017 10:32:11 AM	National Planning Corporation	29	2	GLOO	500	40.01	Sell
+10/5/2017 10:32:11 AM	Wells Fargo Advisors	64	2	CARD	8000	6.555	Buy
+10/5/2017 10:32:41 AM	Wells Fargo Advisors	65	2	BRIC	400	30.71	Sell
+10/5/2017 10:33:20 AM	Fidelity	29	2	KRIL	30	6.03	Buy
+10/5/2017 10:33:22 AM	Charles Schwab	30	2	YLLW	550	11.205	Sell
+10/5/2017 10:33:22 AM	Edward Jones	30	2	HOOF	600	39.2	Sell
+10/5/2017 10:33:22 AM	TD Ameritrade	30	2	LOUD	200	10.95	Sell
+10/5/2017 10:33:22 AM	Raymond James Financial	30	2	YLLW	200	11.3	Sell
+10/5/2017 10:33:22 AM	AXA Advisors	30	2	BRIC	460	30.705	Sell
+10/5/2017 10:33:22 AM	LPL Financial	30	2	LGHT	500	98.77	Sell
+10/5/2017 10:33:22 AM	National Planning Corporation	30	2	BRIC	900	30.69	Buy
+10/5/2017 10:33:22 AM	Wells Fargo Advisors	66	2	BRIC	1400	30.7	Sell
+10/5/2017 10:33:25 AM	Wells Fargo Advisors	67	K	YLLW	1560	10.8	Buy
+10/5/2017 10:33:40 AM	Fidelity	30	K	LOUD	200	140.005	Buy
+10/5/2017 10:33:42 AM	Charles Schwab	31	K	LGHT	100	98.78	Buy
+10/5/2017 10:33:42 AM	Edward Jones	31	2	HOOF	100	39.12	Sell
+10/5/2017 10:33:42 AM	Ameriprise Financial	31	2	GLOO	100	40.02	Buy
+10/5/2017 10:33:42 AM	TD Ameritrade	31	2	KRIL	300	6.08	Buy
+10/5/2017 10:33:42 AM	Raymond James Financial	31	K	KRIL	500	6.075	Buy
+10/5/2017 10:33:42 AM	AXA Advisors	31	2	BARK	100	1.19	Sell
+10/5/2017 10:33:42 AM	LPL Financial	31	2	VELL	100	12	Sell
+10/5/2017 10:33:42 AM	National Planning Corporation	31	2	CARD	100	6.65	Buy
+10/5/2017 10:33:42 AM	Wells Fargo Advisors	68	2	CARD	200	6.68	Buy
+10/5/2017 10:33:51 AM	LPL Financial	32	2	YLLW	400	11.105	Sell
+10/5/2017 10:34:00 AM	Fidelity	31	2	BARK	100	1.195	Buy
+10/5/2017 10:34:01 AM	Fidelity	32	2	CARD	200	6.855	Sell
+10/5/2017 10:34:01 AM	Charles Schwab	32	K	HOOF	150	39.1	Buy
+10/5/2017 10:34:01 AM	Ameriprise Financial	32	K	LOUD	200	10.95	Buy
+10/5/2017 10:34:01 AM	TD Ameritrade	32	K	YLLW	200	11	Buy
+10/5/2017 10:34:01 AM	Raymond James Financial	32	K	BRIC	5000	30.7	Sell
+10/5/2017 10:34:01 AM	AXA Advisors	32	K	LGHT	600	140.005	Sell
+10/5/2017 10:34:01 AM	National Planning Corporation	32	K	LGHT	400	140	Buy
+10/5/2017 10:34:01 AM	Wells Fargo Advisors	69	K	LGHT	100	140.1	Sell
+10/5/2017 10:34:02 AM	Charles Schwab	33	2	LGHT	100	140.05	Buy
+10/5/2017 10:34:02 AM	Edward Jones	33	K	BARK	100	1.19	Buy
+10/5/2017 10:34:02 AM	TD Ameritrade	33	2	BARK	400	88.3	Buy
+10/5/2017 10:34:02 AM	Raymond James Financial	33	K	LGHT	800	98.765	Sell
+10/5/2017 10:34:02 AM	AXA Advisors	33	K	HOOF	200	76.48	Sell
+10/5/2017 10:34:02 AM	National Planning Corporation	33	2	YLLW	100000	11.1	Sell
+10/5/2017 10:34:02 AM	Wells Fargo Advisors	70	2	CARD	700	6.9	Sell
+10/5/2017 10:35:05 AM	Charles Schwab	34	K	BRIC	300	30.705	Sell
+10/5/2017 10:35:05 AM	Edward Jones	34	K	BRIC	200	30.71	Sell
+10/5/2017 10:35:05 AM	Ameriprise Financial	34	K	LGHT	100	140.01	Sell
+10/5/2017 10:35:05 AM	TD Ameritrade	34	K	HOOF	100	39.11	Buy
+10/5/2017 10:35:05 AM	Raymond James Financial	34	2	LOUD	400	10.96	Sell
+10/5/2017 10:35:05 AM	AXA Advisors	34	2	GLOO	500	40.01	Sell
+10/5/2017 10:35:05 AM	National Planning Corporation	34	2	CARD	8000	6.555	Buy
+10/5/2017 10:35:05 AM	Wells Fargo Advisors	71	2	BRIC	400	30.71	Sell
+10/5/2017 10:35:24 AM	Fidelity	33	2	KRIL	30	6.03	Buy
+10/5/2017 10:36:22 AM	Wells Fargo Advisors	72	2	YLLW	550	11.205	Sell
+10/5/2017 10:37:05 AM	Wells Fargo Advisors	73	2	HOOF	600	39.2	Sell
+10/5/2017 10:38:33 AM	Wells Fargo Advisors	75	2	LOUD	200	10.95	Sell
+10/5/2017 10:38:57 AM	Wells Fargo Advisors	76	2	YLLW	200	11.3	Sell
+10/5/2017 10:39:09 AM	Wells Fargo Advisors	77	2	BRIC	460	30.705	Sell
+10/5/2017 10:39:28 AM	Wells Fargo Advisors	78	2	LGHT	500	98.77	Sell
+10/5/2017 10:40:00 AM	Fidelity	34	2	BRIC	900	30.69	Buy
+10/5/2017 10:40:01 AM	Charles Schwab	35	2	BRIC	1400	30.7	Sell
+10/5/2017 10:40:01 AM	Edward Jones	35	K	YLLW	1560	10.8	Buy
+10/5/2017 10:40:01 AM	Ameriprise Financial	35	K	BARK	200	140.005	Buy
+10/5/2017 10:40:01 AM	TD Ameritrade	35	K	LGHT	100	98.78	Buy
+10/5/2017 10:40:01 AM	Raymond James Financial	35	2	HOOF	100	39.12	Sell
+10/5/2017 10:40:01 AM	AXA Advisors	35	2	GLOO	100	40.02	Buy
+10/5/2017 10:40:01 AM	LPL Financial	35	2	KRIL	300	6.08	Buy
+10/5/2017 10:40:01 AM	National Planning Corporation	35	K	KRIL	500	6.075	Buy
+10/5/2017 10:40:01 AM	Wells Fargo Advisors	79	2	BARK	100	1.19	Sell
+10/5/2017 10:40:40 AM	Fidelity	35	2	VELL	100	12	Sell
+10/5/2017 10:40:41 AM	Charles Schwab	36	2	CARD	100	6.65	Buy
+10/5/2017 10:40:41 AM	Edward Jones	36	2	CARD	200	6.68	Buy
+10/5/2017 10:40:41 AM	Ameriprise Financial	36	2	YLLW	400	11.105	Sell
+10/5/2017 10:40:41 AM	TD Ameritrade	36	2	HOOF	500	39.13	Sell
+10/5/2017 10:40:41 AM	Raymond James Financial	36	2	YLLW	600	11.11	Sell
+10/5/2017 10:40:41 AM	AXA Advisors	36	2	BARK	100	1.195	Buy
+10/5/2017 10:40:41 AM	LPL Financial	36	2	CARD	200	6.855	Sell
+10/5/2017 10:40:41 AM	National Planning Corporation	36	K	HOOF	150	39.1	Buy
+10/5/2017 10:41:50 AM	Fidelity	36	K	LOUD	200	10.95	Buy
+10/5/2017 10:41:51 AM	Charles Schwab	37	K	YLLW	200	11	Buy
+10/5/2017 10:41:51 AM	Edward Jones	37	K	BRIC	5000	30.7	Sell
+10/5/2017 10:41:51 AM	Ameriprise Financial	37	K	LGHT	600	140.005	Sell
+10/5/2017 10:41:51 AM	TD Ameritrade	37	K	LGHT	400	140	Buy
+10/5/2017 10:41:51 AM	Raymond James Financial	37	K	LGHT	100	140.1	Sell
+10/5/2017 10:41:51 AM	AXA Advisors	37	2	LGHT	100	140.05	Buy
+10/5/2017 10:41:51 AM	LPL Financial	37	K	BARK	100	1.19	Buy
+10/5/2017 10:41:51 AM	Wells Fargo Advisors	81	2	BARK	400	88.3	Buy
+10/5/2017 10:42:00 AM	Fidelity	37	K	LGHT	800	98.765	Sell
+10/5/2017 10:42:01 AM	Charles Schwab	38	K	HOOF	200	76.48	Sell
+10/5/2017 10:42:01 AM	Edward Jones	38	2	YLLW	100000	11.1	Sell
+10/5/2017 10:42:01 AM	Ameriprise Financial	38	2	CARD	700	6.9	Sell
+10/5/2017 10:42:01 AM	TD Ameritrade	38	K	BRIC	300	30.705	Sell
+10/5/2017 10:42:01 AM	Raymond James Financial	38	K	BRIC	200	30.71	Sell
+10/5/2017 10:42:01 AM	AXA Advisors	38	K	LGHT	100	140.01	Sell
+10/5/2017 10:42:01 AM	LPL Financial	38	K	HOOF	100	39.11	Buy
+10/5/2017 10:42:01 AM	National Planning Corporation	38	2	LOUD	400	10.96	Sell
+10/5/2017 10:42:01 AM	Wells Fargo Advisors	82	2	GLOO	500	40.01	Sell
+10/5/2017 10:43:10 AM	Fidelity	38	2	CARD	8000	6.555	Buy
+10/5/2017 10:43:11 AM	Charles Schwab	39	2	BRIC	400	30.71	Sell
+10/5/2017 10:43:11 AM	Edward Jones	39	2	KRIL	30	6.03	Buy
+10/5/2017 10:43:11 AM	Ameriprise Financial	39	2	YLLW	550	11.205	Sell
+10/5/2017 10:43:11 AM	TD Ameritrade	39	2	HOOF	600	39.2	Sell
+10/5/2017 10:43:13 AM	AXA Advisors	39	2	LOUD	200	10.95	Sell
+10/5/2017 10:43:14 AM	LPL Financial	39	2	YLLW	200	11.3	Sell
+10/5/2017 10:43:15 AM	National Planning Corporation	39	2	BRIC	460	30.705	Sell
+10/5/2017 10:43:16 AM	Wells Fargo Advisors	83	2	LGHT	500	98.77	Sell
+10/5/2017 10:44:20 AM	Fidelity	39	2	BRIC	900	30.69	Buy
+10/5/2017 10:44:21 AM	Charles Schwab	40	2	BRIC	1400	30.7	Sell
+10/5/2017 10:44:22 AM	Edward Jones	40	K	YLLW	1560	10.8	Buy
+10/5/2017 10:44:23 AM	Ameriprise Financial	40	K	CARD	200	140.005	Buy
+10/5/2017 10:44:24 AM	TD Ameritrade	40	K	LGHT	100	98.78	Buy
+10/5/2017 10:44:25 AM	Raymond James Financial	40	2	HOOF	100	39.12	Sell
+10/5/2017 10:44:26 AM	AXA Advisors	40	2	GLOO	100	40.02	Buy
+10/5/2017 10:44:27 AM	LPL Financial	40	2	KRIL	300	6.08	Buy
+10/5/2017 10:44:28 AM	National Planning Corporation	40	K	KRIL	500	6.075	Buy
+10/5/2017 10:44:29 AM	Wells Fargo Advisors	84	2	BARK	100	1.19	Sell
+10/5/2017 10:45:00 AM	Fidelity	40	2	VELL	100	12	Sell
+10/5/2017 10:45:01 AM	Charles Schwab	41	2	CARD	100	6.65	Buy
+10/5/2017 10:45:02 AM	Raymond James Financial	41	2	YLLW	600	11.11	Sell
+10/5/2017 10:45:03 AM	TD Ameritrade	41	2	HOOF	500	39.13	Sell
+10/5/2017 10:45:04 AM	Ameriprise Financial	41	2	YLLW	400	11.105	Sell
+10/5/2017 10:45:05 AM	Edward Jones	41	2	CARD	200	6.68	Buy
+10/5/2017 10:45:07 AM	National Planning Corporation	41	K	HOOF	150	39.1	Buy
+10/5/2017 10:45:08 AM	LPL Financial	41	2	CARD	200	6.855	Sell
+10/5/2017 10:45:09 AM	AXA Advisors	41	2	BARK	100	1.195	Buy
+10/5/2017 10:45:10 AM	Waddell & Reed	1	K	LOUD	200	10.95	Buy
+10/5/2017 10:46:01 AM	Fidelity	41	K	YLLW	200	11	Buy
+10/5/2017 10:46:02 AM	Edward Jones	42	K	LGHT	600	140.005	Sell
+10/5/2017 10:46:03 AM	TD Ameritrade	42	K	LGHT	100	140.1	Sell
+10/5/2017 10:46:04 AM	Raymond James Financial	42	2	LGHT	100	140.05	Buy
+10/5/2017 10:46:05 AM	AXA Advisors	42	K	BARK	100	1.19	Buy
+10/5/2017 10:46:08 AM	Charles Schwab	42	K	BRIC	5000	30.7	Sell
+10/5/2017 10:46:09 AM	Ameriprise Financial	42	K	LGHT	400	140	Buy
+10/5/2017 10:46:11 AM	National Planning Corporation	42	2	BARK	400	88.3	Buy
+10/5/2017 10:46:22 AM	Wells Fargo Advisors	86	K	LGHT	800	98.765	Sell
+10/5/2017 10:47:01 AM	Wells Fargo Advisors	87	2	CARD	8000	6.555	Buy
+10/5/2017 10:47:02 AM	Ameriprise Financial	43	K	BRIC	300	30.705	Sell
+10/5/2017 10:47:03 AM	AXA Advisors	43	K	HOOF	100	39.11	Buy
+10/5/2017 10:47:04 AM	National Planning Corporation	43	2	GLOO	500	40.01	Sell
+10/5/2017 10:47:05 AM	LPL Financial	43	2	LOUD	400	10.96	Sell
+10/5/2017 10:47:06 AM	Raymond James Financial	43	K	LGHT	100	140.01	Sell
+10/5/2017 10:47:07 AM	TD Ameritrade	43	K	BRIC	200	30.71	Sell
+10/5/2017 10:47:08 AM	Edward Jones	43	2	CARD	700	6.9	Sell
+10/5/2017 10:47:09 AM	Charles Schwab	43	2	YLLW	100000	11.1	Sell
+10/5/2017 10:47:10 AM	Fidelity	42	K	HOOF	200	76.48	Sell
+10/5/2017 10:48:08 AM	Waddell & Reed	2	2	BRIC	400	30.71	Sell
+10/5/2017 10:49:10 AM	Raymond James Financial	44	2	YLLW	200	11.3	Sell
+10/5/2017 10:49:10 AM	AXA Advisors	44	2	BRIC	460	30.705	Sell
+10/5/2017 10:49:11 AM	TD Ameritrade	44	2	LOUD	200	10.95	Sell
+10/5/2017 10:49:12 AM	Wells Fargo Advisors	88	2	BRIC	1400	30.7	Sell
+10/5/2017 10:49:13 AM	Edward Jones	44	2	HOOF	600	39.2	Sell
+10/5/2017 10:49:14 AM	Charles Schwab	44	2	YLLW	550	11.205	Sell
+10/5/2017 10:49:16 AM	Fidelity	43	2	KRIL	30	6.03	Buy
+10/5/2017 10:49:16 AM	LPL Financial	44	2	LGHT	500	98.77	Sell
+10/5/2017 10:49:18 AM	National Planning Corporation	44	2	BRIC	900	30.69	Buy
+10/5/2017 10:50:20 AM	Ameriprise Financial	45	2	HOOF	100	39.12	Sell
+10/5/2017 10:50:21 AM	Edward Jones	45	K	LGHT	100	98.78	Buy
+10/5/2017 10:50:22 AM	Charles Schwab	45	K	HOOF	200	140.005	Buy
+10/5/2017 10:50:23 AM	Fidelity	44	K	YLLW	1560	10.8	Buy
+10/5/2017 10:50:24 AM	Wells Fargo Advisors	89	2	CARD	100	6.65	Buy
+10/5/2017 10:50:25 AM	National Planning Corporation	45	2	VELL	100	12	Sell
+10/5/2017 10:50:26 AM	LPL Financial	45	2	BARK	100	1.19	Sell
+10/5/2017 10:50:27 AM	AXA Advisors	45	K	KRIL	500	6.075	Buy
+10/5/2017 10:50:28 AM	Raymond James Financial	45	2	KRIL	300	6.08	Buy
+10/5/2017 10:50:29 AM	TD Ameritrade	45	2	GLOO	100	40.02	Buy
+10/5/2017 10:51:06 AM	Wells Fargo Advisors	90	2	CARD	200	6.68	Buy
+10/5/2017 10:51:11 AM	Raymond James Financial	46	K	HOOF	150	39.1	Buy
+10/5/2017 10:51:12 AM	TD Ameritrade	46	2	CARD	200	6.855	Sell
+10/5/2017 10:51:13 AM	Ameriprise Financial	46	2	BARK	100	1.195	Buy
+10/5/2017 10:51:14 AM	Edward Jones	46	2	YLLW	600	11.11	Sell
+10/5/2017 10:51:15 AM	Charles Schwab	46	2	HOOF	500	39.13	Sell
+10/5/2017 10:51:16 AM	Fidelity	45	2	YLLW	400	11.105	Sell
+10/5/2017 10:51:18 AM	National Planning Corporation	46	K	YLLW	200	11	Buy
+10/5/2017 10:51:20 AM	LPL Financial	46	K	LOUD	200	10.95	Buy
+10/5/2017 10:52:01 AM	Charles Schwab	47	K	LGHT	600	140.005	Sell
+10/5/2017 10:52:03 AM	Ameriprise Financial	47	K	LGHT	100	140.1	Sell
+10/5/2017 10:52:04 AM	Raymond James Financial	47	K	BARK	100	1.19	Buy
+10/5/2017 10:52:05 AM	TD Ameritrade	47	2	LGHT	100	140.05	Buy
+10/5/2017 10:52:06 AM	Edward Jones	47	K	LGHT	400	140	Buy
+10/5/2017 10:52:07 AM	Fidelity	46	K	BRIC	5000	30.7	Sell
+10/5/2017 10:52:09 AM	National Planning Corporation	47	K	LGHT	800	98.765	Sell
+10/5/2017 10:52:10 AM	LPL Financial	47	2	BARK	400	88.3	Buy
+10/5/2017 10:52:52 AM	Wells Fargo Advisors	91	K	HOOF	200	76.48	Sell
+10/5/2017 10:53:20 AM	Wells Fargo Advisors	92	2	YLLW	100000	11.1	Sell
+10/5/2017 10:54:01 AM	Edward Jones	48	K	BRIC	200	30.71	Sell
+10/5/2017 10:54:03 AM	Raymond James Financial	48	2	LOUD	400	10.96	Sell
+10/5/2017 10:54:06 AM	Ameriprise Financial	48	K	LGHT	100	140.01	Sell
+10/5/2017 10:54:07 AM	National Planning Corporation	48	2	BRIC	400	30.71	Sell
+10/5/2017 10:54:08 AM	LPL Financial	48	2	CARD	8000	6.555	Buy
+10/5/2017 10:54:09 AM	AXA Advisors	48	2	GLOO	500	40.01	Sell
+10/5/2017 10:54:10 AM	Charles Schwab	48	K	BRIC	300	30.705	Sell
+10/5/2017 10:54:11 AM	TD Ameritrade	48	K	HOOF	100	39.11	Buy
+10/5/2017 10:54:12 AM	Fidelity	47	2	CARD	700	6.9	Sell
+10/5/2017 10:55:10 AM	Wells Fargo Advisors	93	2	KRIL	30	6.03	Buy
+10/5/2017 10:55:39 AM	Wells Fargo Advisors	94	K	YLLW	1560	10.8	Buy
+10/5/2017 10:55:40 AM	LPL Financial	49	2	BRIC	900	30.69	Buy
+10/5/2017 10:55:41 AM	National Planning Corporation	49	2	BRIC	1400	30.7	Sell
+10/5/2017 10:55:42 AM	Fidelity	48	2	YLLW	550	11.205	Sell
+10/5/2017 10:55:44 AM	Raymond James Financial	49	2	BRIC	460	30.705	Sell
+10/5/2017 10:55:46 AM	TD Ameritrade	49	2	YLLW	200	11.3	Sell
+10/5/2017 10:55:47 AM	Ameriprise Financial	49	2	LOUD	200	10.95	Sell
+10/5/2017 10:55:49 AM	Charles Schwab	49	2	HOOF	600	39.2	Sell
+10/5/2017 10:55:49 AM	AXA Advisors	49	2	LGHT	500	98.77	Sell
+10/5/2017 10:55:50 AM	Ameriprise Financial	50	2	HOOF	100	39.12	Sell
+10/5/2017 10:55:51 AM	Raymond James Financial	50	2	GLOO	100	40.02	Buy
+10/5/2017 10:55:52 AM	LPL Financial	50	K	KRIL	500	6.075	Buy
+10/5/2017 10:55:53 AM	National Planning Corporation	50	2	BARK	100	1.19	Sell
+10/5/2017 10:55:54 AM	Fidelity	49	K	LOUD	200	140.005	Buy
+10/5/2017 10:55:55 AM	Charles Schwab	50	K	LGHT	100	98.78	Buy
+10/5/2017 10:55:58 AM	AXA Advisors	50	2	KRIL	300	6.08	Buy
+10/5/2017 10:56:00 AM	Wells Fargo Advisors	95	2	VELL	100	12	Sell
+10/5/2017 10:57:50 AM	Wells Fargo Advisors	96	2	CARD	100	6.65	Buy
+10/5/2017 10:57:54 AM	Wells Fargo Advisors	97	2	CARD	200	6.68	Buy
+10/5/2017 10:58:50 AM	Wells Fargo Advisors	98	2	YLLW	400	11.105	Sell
+10/5/2017 10:59:00 AM	Fidelity	50	2	HOOF	500	39.13	Sell
+10/5/2017 10:59:01 AM	Charles Schwab	51	2	YLLW	600	11.11	Sell
+10/5/2017 10:59:40 AM	Wells Fargo Advisors	99	K	VELL	200	140.005	Buy
+10/5/2017 10:59:54 AM	Edward Jones	50	K	LGHT	100	98.78	Buy
+10/5/2017 10:59:59 AM	Wells Fargo Advisors	100	2	HOOF	100	39.12	Sell

@@ -1,0 +1,40 @@
+Time Stamp	Broker	Sequence ID	Trade Type	Symbol	Quantity	Price	Side
+10/5/2017 10:00:09 AM	Ameriprise Financial	1	K	LOUM	200	29.87	Buy
+10/5/2017 10:00:42 AM	Charles Schwab	2	2	DARK	100	20	Buy
+10/5/2017 10:01:50 AM	Fidelity	4	2	LOUM	400	29.875	Sell
+10/5/2017 10:01:59 AM	National Planning Corporation	4	K	BRGT	200	140.005	Buy
+10/5/2017 10:02:17 AM	TD Ameritrade	6	K	LOUM	200	29.87	Buy
+10/5/2017 10:03:38 AM	Ameriprise Financial	7	2	DARK	100	20	Buy
+10/5/2017 10:04:31 AM	Wells Fargo Advisors	9	2	LOUM	400	29.875	Sell
+10/5/2017 10:05:11 AM	Ameriprise Financial	9	2	BRIC	1400	30.7	
+10/5/2017 10:06:06 AM	Edward Jones	11	K	LOUM	200	29.87	Buy
+10/5/2017 10:06:58 AM	Edward Jones	12	2	DARK	100	20	Bay
+10/5/2017 10:07:11 AM	National Planning Corporation	13	2	LOUM	400	29.875	Sell
+10/5/2017 10:10:45 AM	Ameriprise Financial	15		HOOF	500	39.13	Sell
+10/5/2017 10:10:45 AM	National Planning Corporation	15	K	LOUM	200	29.87	Buy
+10/5/2017 10:11:02 AM	AXA Advisors	16	2	DARK	100	20	Buy
+10/5/2017 10:12:21 AM	Edward Jones	18	2	LOUM	400	29.875	Sell
+10/5/2017 10:13:45 AM	Wells Fargo Advisors	28	K	LEFT	200	140.005	Buy
+10/5/2017 10:15:02 AM	TD Ameritrade	20	K	LOUM	200	29.87	Buy
+10/5/2017 10:17:03 AM	Charles Schwab	21	2	DARK	100	20	Buy
+10/5/2017 10:18:05 AM	AXA Advisors	22	2	LOUM	400	29.875	Sell
+10/5/2017 10:19:45 AM	Wells Fargo Advisors	39	K	LOUM	200	29.87	Buy
+10/5/2017 10:20:01 AM	National Planning Corporation	25	2	DARK	100	20	Buy
+10/5/2017 10:22:14 AM	TD Ameritrade	27	2	LOUM	400	29.875	Sell
+10/5/2017 10:27:00 AM	Wells Fargo Advisors	52	K	LOUM	200	29.87	Buy
+10/5/2017 10:30:56 AM	Wells Fargo Advisors	61	2	DARK	100	20	Buy
+10/5/2017 10:33:22 AM	Ameriprise Financial	30	2	LOUM	400	29.875	Sell
+10/5/2017 10:33:52 AM	LPL Financial	33	2	HOOF	500	39.13	Sell
+10/5/2017 10:33:56 AM	LPL Financial	34	2	YLLW	600	11.11	Sell
+10/5/2017 10:34:01 AM	Edward Jones	32	K	LOUM	200	29.87	Buy
+10/5/2017 10:34:02 AM	Ameriprise Financial	33	2	DARK	100	20	Buy
+10/5/2017 10:38:05 AM	Wells Fargo Advisors	74	2	LOUM	400	29.875	Sell
+10/5/2017 10:40:41 AM	Wells Fargo Advisors	80	K	LOUM	200	29.87	Buy
+10/5/2017 10:41:51 AM	National Planning Corporation	37	2	DARK	100	20	Buy
+10/5/2017 10:43:12 AM	Raymond James Financial	39	2	LOUM	400	29.875	Sell
+10/5/2017 10:45:06 AM	Wells Fargo Advisors	85	K	LOUM	200	29.87	Buy
+10/5/2017 10:46:06 AM	LPL Financial	42	2	DARK	100	20	Buy
+10/5/2017 10:49:12 AM	Ameriprise Financial	44	2	LOUM	400	29.875	Sell
+10/5/2017 10:51:10 AM	AXA Advisors	46	K	LOUM	200	29.87	Buy
+10/5/2017 10:52:00 AM	AXA Advisors	47	2	DARK	100	20	Buy
+10/5/2017 10:55:48 AM	Edward Jones	49	2	LOUM	400	29.875	Sell
